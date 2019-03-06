@@ -25,76 +25,76 @@ public class Pizza {
         this.tipoAceite = tipoAceite;
         this.tipoQueso = tipoQueso;
     }
-//
-//    public float getGharina() {
-//        return gharina;
-//    }
-//
-//    public void setGharina(float gharina) {
-//        this.gharina = gharina;
-//    }
-//
-//    public float getMlAgua() {
-//        return mlAgua;
-//    }
-//
-//    public void setMlAgua(float mlAgua) {
-//        this.mlAgua = mlAgua;
-//    }
-//
-//    public float getGrSal() {
-//        return grSal;
-//    }
-//
-//    public void setGrSal(float grSal) {
-//        this.grSal = grSal;
-//    }
-//
-//    public float getMlAceite() {
-//        return mlAceite;
-//    }
-//
-//    public void setMlAceite(float mlAceite) {
-//        this.mlAceite = mlAceite;
-//    }
-//
-//    public float getGrTomate() {
-//        return grTomate;
-//    }
-//
-//    public void setGrTomate(float grTomate) {
-//        this.grTomate = grTomate;
-//    }
-//
-//    public float getGrQueso() {
-//        return grQueso;
-//    }
-//
-//    public void setGrQueso(float grQueso) {
-//        this.grQueso = grQueso;
-//    }
-//
-//    public float getGrPinha() {
-//        return grPinha;
-//    }
-//
-//    public void setGrPinha(float grPinha) {
-//        this.grPinha = grPinha;
-//    }
-//
-//    public String getTipoAceite() {
-//        return tipoAceite;
-//    }
-//
-//    public void setTipoAceite(String tipoAceite) {
-//        this.tipoAceite = tipoAceite;
-//    }
-//
-//    public String getTipoQueso() {
-//        return tipoQueso;
-//    }
-//
-//    public void setTipoQueso(String tipoQueso) {
-//        this.tipoQueso = tipoQueso;
-//    }
+
+    public float getGharina() {
+        return gharina;
+    }
+
+    public void setGharina(float gharina) {
+        this.gharina = gharina;
+    }
+
+    public float getMlAgua() {
+        return mlAgua;
+    }
+
+    public void setMlAgua(float mlAgua) {
+        this.mlAgua = mlAgua;
+    }
+
+    public float getGrSal() {
+        return grSal;
+    }
+
+    public void setGrSal(float grSal) {
+        this.grSal = grSal;
+    }
+
+    public float getMlAceite() {
+        return mlAceite;
+    }
+
+    public void setMlAceite(float mlAceite) {
+        this.mlAceite = mlAceite;
+    }
+
+    public float getGrTomate() {
+        return grTomate;
+    }
+
+    public void setGrTomate(float grTomate) {
+        this.grTomate = grTomate;
+    }
+
+    public float getGrQueso() {
+        return grQueso;
+    }
+
+    public void setGrQueso(float grQueso) {
+        this.grQueso = grQueso;
+    }
+
+    public float getGrPinha() {
+        return grPinha;
+    }
+
+    public void setGrPinha(float grPinha) {
+        this.grPinha = grPinha;
+    }
+
+    public String getTipoAceite() {
+        return tipoAceite;
+    }
+
+    public void setTipoAceite(String tipoAceite) {
+        this.tipoAceite = tipoAceite;
+    }
+
+    public String getTipoQueso() {
+        return tipoQueso;
+    }
+
+    public void setTipoQueso(String tipoQueso) {
+        this.tipoQueso = tipoQueso;
+    }
 }
